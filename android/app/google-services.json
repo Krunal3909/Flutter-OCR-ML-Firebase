@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167147382816",
+    "project_id": "ocryara",
+    "storage_bucket": "ocryara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167147382816:android:8b125ed15dacab66d7f445",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ocr_yara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167147382816-rt5h4smeubklscfftbgeufsg6tquvdpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Divl3Ht2PGSJo8OciexcL9lxG8hAt9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167147382816-rt5h4smeubklscfftbgeufsg6tquvdpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
